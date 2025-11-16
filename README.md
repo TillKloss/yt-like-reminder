@@ -4,7 +4,9 @@ Dieses Skript zeigt automatisch eine kleine Like-Erinnerung an, wenn ein YouTube
 Die Erinnerung erscheint als kleines Popup rechts unten und verschwindet nach 10 Sekunden wieder.  
 Es eignet sich z. B. für Browser-Extensions oder Userscripts.
 
----
+<kbd>[Features](#features)</kbd>  
+<kbd>[Funktionsweise](#funktionsweise)</kbd>  
+<kbd>[Verwendung](#verwendung)</kbd>
 
 ## Features
 
